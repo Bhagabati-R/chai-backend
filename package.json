@@ -1,0 +1,16 @@
+{
+  "name": "chai_aur_code_new",
+  "version": "1.0.0",
+  "description": "a backend at chai channel",
+  "keywords": [
+    "javascript",
+    "backend"
+  ],
+  "license": "ISC",
+  "author": "hellon",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
